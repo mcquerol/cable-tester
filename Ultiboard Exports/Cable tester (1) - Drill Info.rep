@@ -1,0 +1,26 @@
+ULTIBOARD DRILL REPORT
+
+Design: Cable tester (1)
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Metric, 3.4 
+
+
+DEFINITION COPPER LAYERS
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                         LAMINATION
+Cable tester (1) - Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
+
+TOOL     SIZE   TYPE  COUNT
+   1   0.8500    PTH     10
+   2   0.8890    PTH     41
+   3   0.9000    PTH     12
+   4   0.9949    PTH      2
+   5   0.8000    PTH     78
+   6   1.2000    PTH      2
+   7   3.0000   NPTH      4
